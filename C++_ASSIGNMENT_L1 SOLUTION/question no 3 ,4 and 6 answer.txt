@@ -1,0 +1,22 @@
+Ques 3 :-How much space does following data types 
+take ?
+	1. int -- 4 bytes (32 bits)
+	2. bool -- 1 byte (8 bits)
+	3. float -- 4 bytes (32 bits)
+
+Ques 4: What is the output of this program?
+	void main(){
+	int a=4;
+	int b=5;
+	a++;b--;
+	cout<<++a<<” “<<b–-;
+        }
+   ans:6
+       4
+
+Ques 6: How many of these can be a variable name?
+	1.01PWskills -- not a variable
+ 	2._FLOAT -- a variable
+ 	3.int -- not a vriable
+ 	4.FLOAT -- a variable
+ 	5.You will succeed -- a variablr
